@@ -2,6 +2,12 @@
 
 Small PowerShell module to trigger the  [IFTTT Maker Channel][1]
 
+## Installation
+
+```powershell
+Install-Module -Name PSTriggerIfttt
+```
+
 ## Usage
 
 ```powershell
