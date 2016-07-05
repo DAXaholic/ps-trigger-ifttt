@@ -8,7 +8,7 @@
 RootModule = 'PSTriggerIfttt.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0.1'
+ModuleVersion = '1.0.2'
 
 # ID used to uniquely identify this module
 GUID = '3c9a72c9-9f8e-4b4f-af3b-1c8a53966ef5'
